@@ -1,0 +1,22 @@
+{
+  "name": "yagyaworld",
+  "version": "1.0.0",
+  "description": "to print hello yagya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yagya-Adh/npm-package.git"
+  },
+  "keywords": [
+    "yagya"
+  ],
+  "author": "yagya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yagya-Adh/npm-package/issues"
+  },
+  "homepage": "https://github.com/Yagya-Adh/npm-package#readme"
+}
