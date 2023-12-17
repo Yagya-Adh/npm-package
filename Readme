@@ -50,3 +50,20 @@ Install:
   console.log(f.format(today));
         
         
+
+  For React:
+
+    npm install react -D
+
+
+    "devDependencies": {
+    "react": "^18.2.0",
+    "vite": "^5.0.10"
+  },
+
+  also,, we have to add:
+          
+          "peerDependencies": {
+            "react": "^18.2.0"
+          }
+
