@@ -1,0 +1,16 @@
+{
+  "name": "basic1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yagya-is-string": "^1.0.0",
+    "yagyaworld": "^1.0.0"
+  }
+}
