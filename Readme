@@ -37,3 +37,16 @@ Testing:
 Install: 
 
         npm i yagyaworld
+        
+        
+        
+         const today = new Date();
+  const f = new Intl.DateTimeFormat("en-us", {
+    dateStyle: "full",
+    timeStyle: "full",
+    // dayPeriod: "long"
+  });
+
+  console.log(f.format(today));
+        
+        
