@@ -9,6 +9,10 @@ const generateRandomString = (length) => {
   return result;
 };
 
+console.log("Five char length :");
 console.log(generateRandomString(5));
+
+console.log(" seven char length :");
+console.log(generateRandomString(7));
 
 module.exports = generateRandomString;
