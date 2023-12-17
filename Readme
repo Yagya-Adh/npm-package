@@ -1,0 +1,39 @@
+hEllo Npm 
+
+
+
+Create:
+      
+        mkdir package
+        cd package 
+
+        git init 
+
+        ... 
+        ... 
+        git add -u origin master
+
+        npm init 
+
+        npm link 
+      
+      if every things ok? then publish it to npm 
+      >   npm publish
+
+
+
+Testing:
+
+        npm link 
+
+        npm link <package-name>
+
+
+
+        npm unlink 
+        
+    Happy Code!   we can serach our packages in NPM
+
+Install: 
+
+        npm i yagyaworld
